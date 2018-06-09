@@ -8,7 +8,7 @@ This repository contains 2 notebooks:
 
 2. choropleth_US
 
-  '2011_US_AGRI_Exports' file is used as data for creating graphs in the notebook.
+   '2011_US_AGRI_Exports' file is used as data for creating graphs in the notebook.
 
 3. choropleth_World
 
