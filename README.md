@@ -1,6 +1,6 @@
 # Plotly-Cufflinks_Visualizations
 
-This repository contains 2 notebooks:
+This repository contains 3 notebooks:
 
 1. Different visualizations using plotly and cufflinks libraries in Python.
    
